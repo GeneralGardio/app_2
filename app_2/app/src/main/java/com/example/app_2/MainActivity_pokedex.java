@@ -1,0 +1,16 @@
+package com.example.app_2;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class MainActivity_pokedex extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main_pokedex);
+
+        // inserir reclycer view
+    }
+}
